@@ -57,8 +57,8 @@ import Splatter from "../../../static/images/attachments/Splatter_Rounds.png";
 import StdStock from "../../../static/images/attachments/Standard_Stock.png";
 import Turbo from "../../../static/images/attachments/Turbocharger.png";
 import SelectFire from "../../../static/images/attachments/Selectfire_Receiver.png";
-import DoubleTap from "../../../static/images/attachments/Double_tap_trigger.png";
-import HammerPoint from "../../../static/images/attachments/Hammerpoint_rounds.png";
+import DoubleTap from "../../../static/images/attachments/Double_Tap_Trigger.png";
+import HammerPoint from "../../../static/images/attachments/Hammerpoint_Rounds.png";
 // Grenade Icons
 import ArcStar from "../../../static/images/grenades/Arc_Star.png";
 import Frag from "../../../static/images/grenades/Frag_Grenade.png";
