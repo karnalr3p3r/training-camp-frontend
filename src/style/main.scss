@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap");
+
+@import "/home.scss";
+@import "/navbar.scss";
+@import "/legend.scss";
+@import "/legend-form.scss";
+@import "/weapons.scss";
+@import "/weapons-sidebar.scss";
+@import "/contact.scss";
+@import "/media-queries.scss";
+
+html {
+  font-size: 62.5%; // 1rem is 10px
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-family: "Fira Sans", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  font-weight: normal;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-tap-highlight-color: transparent;
+
+  color: #333d29;
+}

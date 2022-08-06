@@ -1,0 +1,36 @@
+.contact-page-wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(../../static/images/background/background2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+  .top-row {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: #000000;
+  }
+  .middle-row {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+    #social-buttons {
+      margin: 30px;
+      font-size: 3rem;
+      letter-spacing: 1px;
+      font-weight: 700;
+      text-decoration: none;
+      color: #000000;
+      &:hover {
+        color: #936639;
+      }
+    }
+  }
+}

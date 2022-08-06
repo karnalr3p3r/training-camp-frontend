@@ -1,0 +1,46 @@
+.home-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(../../static/images/background/gameover.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  height: 100%;
+
+  .photo-one {
+    background-image: url(../../static/images/background/background3.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .photo-two {
+    background-image: url(../../static/images/background/background4.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .text-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .text-container {
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 850px;
+    font-size: 2rem;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 10px;
+
+    color: black;
+    letter-spacing: 1px;
+    .text {
+      padding: 10px;
+    }
+  }
+}

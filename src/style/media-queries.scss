@@ -1,0 +1,297 @@
+@media (max-width: 912px) {
+  .navbar-container {
+    .navbar-header {
+      font-size: 1rem;
+      margin: 30px;
+    }
+    .navbar-links {
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      .navbar-link {
+        font-size: 1rem;
+      }
+    }
+  }
+  .home-wrapper {
+    .photo-two {
+      display: none;
+    }
+    .text-container {
+      width: 85vw;
+      font-size: 1.5rem;
+    }
+  }
+  .legends-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    .legend-container {
+      width: 60vw;
+      height: 100%;
+
+      .section-one {
+        height: 130px;
+        img {
+          height: 120px;
+        }
+      }
+
+      .section-four {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: fit-content;
+        width: fit-content;
+      }
+
+      .section-five {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: fit-content;
+      }
+      .section-six {
+        margin: 0;
+      }
+    }
+  }
+  .contact-page-wrapper {
+    text-align: center;
+    .top-row {
+      font-size: 1.3rem;
+      width: 300px;
+      letter-spacing: 1px;
+    }
+  }
+
+  .weapons-page-container {
+    background-image: url(../../static/images/background/background2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    .weapons-class {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+  }
+  .item-key {
+    &-keys {
+      flex-direction: column;
+      width: fit-content;
+      margin: 20px;
+      .item-key-ammo {
+        margin: 20px;
+      }
+      .item-key-attachments {
+        margin: 20px;
+      }
+      .item-key-grenades {
+        margin: 20px;
+      }
+    }
+  }
+}
+
+@media (max-width: 615px) {
+  .navbar-container {
+    width: 96vw;
+    .navbar-header {
+      font-size: 1rem;
+      margin: 30px;
+    }
+    .navbar-links {
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      .navbar-link {
+        font-size: 1rem;
+      }
+    }
+  }
+  .home-wrapper {
+    .photo-two {
+      display: none;
+    }
+    .text-container {
+      width: 85vw;
+      font-size: 1.5rem;
+    }
+  }
+  .legends-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    .legend-container {
+      width: 60vw;
+      height: 100%;
+
+      .section-one {
+        height: 130px;
+        img {
+          height: 120px;
+        }
+      }
+
+      .section-four {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: fit-content;
+        width: fit-content;
+      }
+
+      .section-five {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: fit-content;
+      }
+      .section-six {
+        margin: 0;
+      }
+    }
+  }
+  .contact-page-wrapper {
+    text-align: center;
+    .top-row {
+      font-size: 1.3rem;
+      width: 300px;
+      letter-spacing: 1px;
+    }
+  }
+
+  .weapons-page-container {
+    background-image: url(../../static/images/background/background2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    .weapons-class {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+  }
+  .item-key {
+    &-keys {
+      flex-direction: column;
+      width: fit-content;
+      margin: 20px;
+      .item-key-ammo {
+        margin: 20px;
+      }
+      .item-key-attachments {
+        margin: 20px;
+      }
+      .item-key-grenades {
+        margin: 20px;
+      }
+    }
+  }
+}
+
+@media (max-width: 414px) {
+  .navbar-container {
+    .navbar-header {
+      font-size: 1rem;
+    }
+    .navbar-links {
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      .navbar-link {
+        font-size: 1rem;
+      }
+    }
+  }
+  .home-wrapper {
+    .text-wrapper {
+      font-size: 1.2rem;
+    }
+  }
+  .legends-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    .legend-container {
+      height: 100%;
+
+      .section-one {
+        height: 130px;
+        img {
+          height: 120px;
+        }
+      }
+
+      .section-four {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: fit-content;
+        width: fit-content;
+      }
+
+      .section-five {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: fit-content;
+      }
+      .section-six {
+        margin: 0;
+      }
+    }
+  }
+  .contact-page-wrapper {
+    text-align: center;
+    .top-row {
+      font-size: 1.3rem;
+      width: 250px;
+      letter-spacing: 1px;
+    }
+  }
+
+  .weapons-page-container {
+    background-image: url(../../static/images/background/background2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+    .weapons-class {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+  }
+  .item-key {
+    &-keys {
+      flex-direction: column;
+      width: fit-content;
+      margin: 20px;
+      .item-key-ammo {
+        margin: 20px;
+      }
+      .item-key-attachments {
+        margin: 20px;
+      }
+      .item-key-grenades {
+        margin: 20px;
+      }
+    }
+  }
+}
