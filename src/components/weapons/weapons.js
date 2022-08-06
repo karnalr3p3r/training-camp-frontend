@@ -22,7 +22,7 @@ import Prowler from "../../../static/images/weapons/Prowler_Burst_PDW_Icon.png";
 import R99 from "../../../static/images/weapons/R-99_SMG_Icon.png";
 import R301 from "../../../static/images/weapons/R-301_Carbine_Icon.png";
 import Rampage from "../../../static/images/weapons/Rampage_LMG_Icon.png";
-import RE45 from "../../../static/images/weapons/Re-45_Auto_Icon.png";
+import RE45 from "../../../static/images/weapons/RE-45_Auto_Icon.png";
 import Sentinel from "../../../static/images/weapons/Sentinel_Icon.png";
 import TripleTake from "../../../static/images/weapons/Triple_Take_Icon.png";
 import Flatline from "../../../static/images/weapons/VK-47_Flatline_Icon.png";
