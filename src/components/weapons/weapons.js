@@ -29,7 +29,7 @@ import Flatline from "../../../static/images/weapons/VK-47_Flatline_Icon.png";
 import Volt from "../../../static/images/weapons/Volt_SMG_Icon.png";
 import Wingman from "../../../static/images/weapons/Wingman_Icon.png";
 // Ammo Icons
-import Arrows from "../../../static/images/ammo-types/arrows.png";
+import Arrows from "../../../static/images/ammo-types/Arrows.png";
 import Energy from "../../../static/images/ammo-types/Energy_Ammo.png";
 import Heavy from "../../../static/images/ammo-types/Heavy_Rounds.png";
 import Light from "../../../static/images/ammo-types/Light_Rounds.png";
